@@ -85,8 +85,9 @@ key_skills.
 обработке полей с навыками. Поле генерируется после получения
 информации от api.
 
-Презентация https://disk.yandex.ru/i/vFaPYSehFFHtKA
 **soft_skills_from_description** - “Мягкие” навыки,
 найденные при обработке полей с навыками. Поле генерируется после
 получения информации от api.
+
+Презентация https://disk.yandex.ru/i/vFaPYSehFFHtKA
 
